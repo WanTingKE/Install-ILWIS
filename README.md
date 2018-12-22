@@ -26,7 +26,9 @@ http://ilwis.itc.utwente.nl/wiki/index.php/Main_Page
 <h2/>Note 2: If you have install problems like "Missing msvcp140.dll", the solution as follows:
 <h3>
 For the Windows 7 computer ("Missing msvcp140.dll"), please make one last attempt by installing the "Microsoft Visual C++ Redistributable for Visual Studio 2017".
+  
 Download the installer file (VC_redist.x64.exe, approximately 14 MB, 64-bits edition) here: https://go.microsoft.com/fwlink/?LinkId=746572
+
 This contains the official installer for msvcp140.dll. 
   
   
